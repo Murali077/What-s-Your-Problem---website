@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+body {
+  background-image:url("sky.jpg");
+}
+
+
+div{
+border: 5px solid black;
+height: 120px;
+padding-left:20px;
+
+}
+
+div.a{
+color:black;
+}
+
+div.b{
+position: absolute;
+left: 120px;
+width: 500px;
+height: 120px;
+}
+
+h2 {
+text-align: center;
+
+}
+
+
+</style>
+</head>
+
+
+<body>
+
+<h1>WHAT'S YOUR PROBLEM?</h1>
+
+
+
+<div><h2>HELLO ALL</h2>
+
+<h3 class="a">The Rest Of The World Is In Your Hands......</h3>
+</div>
+<p><a href="https://forms.gle/HszegMkFg7pHJ7rZA">Clich here for filling the form</a></p>
+
+</body>
+
+
+
+
+</html>
+
